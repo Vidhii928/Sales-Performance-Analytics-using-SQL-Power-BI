@@ -1,72 +1,85 @@
-## 📊 Sales Intelligence & Performance Analysis using SQL & Power BI
-==================================================
+## 📊 Sales Insights using SQL & Power BI
+--------------------------------------------------
 
-This project presents an end-to-end analysis of sales data with the goal of transforming raw transactional data into meaningful business insights. SQL is used as the primary tool for data preparation and analytical querying, while Power BI is used to visually communicate key performance metrics.
+This project focuses on analyzing sales data using SQL for data cleaning and analysis, and Power BI for data visualization. The objective is to extract meaningful business insights related to revenue trends, market performance, and customer behavior.
 
-==================================================
+--------------------------------------------------
 
-### 🔹 Data Preparation & Exploration
-==================================================
+### 🔹 Sales Data Cleaning & Exploration
+--------------------------------------------------
 
-The sales database was prepared by restructuring tables, validating data integrity, and optimizing columns required for analysis. This step ensured that the dataset was accurate, consistent, and analysis-ready.
+Sales data was cleaned and prepared for analysis by removing unnecessary columns and adding required attributes. The database tables were structured and optimized to ensure accurate and efficient analysis.
 
-Tables Included:
+Tables Used:
 1. Customers  
 2. Date  
 3. Markets  
 4. Products  
 5. Transactions  
 
-==================================================
+--------------------------------------------------
 
-### 🔹 SQL-Based Data Processing
-==================================================
+### 🔹 SQL Queries for Data Cleaning & Exploration
+--------------------------------------------------
 
-SQL queries were written to clean, filter, and standardize the data. This phase focused on removing inconsistencies, handling missing values, and preparing a reliable dataset for deeper analysis.
+SQL queries were used to clean the data, handle missing values, standardize formats, and validate the dataset before performing analysis. This step ensured data consistency and reliability.
 
-==================================================
+--------------------------------------------------
 
-### 🔹 Analytical Queries & Business Logic
-==================================================
+### 🔹 Sales Analysis using SQL
+--------------------------------------------------
 
-Advanced SQL queries were developed to extract insights related to sales growth, revenue contribution, and market performance across multiple dimensions.
+SQL queries were written to answer key business questions and analyze sales performance across different dimensions such as time, markets, products, and revenue contribution.
 
-Key Analytical Focus Areas:
-1. Time-based revenue comparison  
-2. Market-wise and product-wise sales trends  
-3. Sales volume distribution across regions  
-4. Revenue contribution analysis  
-5. Identification of high-performing markets  
+Analysis Performed:
+1. Overview of all tables and their records  
+2. Date range analysis  
+3. Revenue comparison for 2019 and 2020  
+4. Currency distribution analysis  
+5. Market-wise total revenue calculation  
+6. Daily sales quantity by market  
+7. Year-wise sales trends across markets  
+8. Product sales categorization based on quantity  
+9. Revenue contribution percentage by market  
+10. Identification of the highest-performing market  
 
-==================================================
+--------------------------------------------------
 
-### 🔹 Visualization & Insight Communication
-==================================================
+### 🔹 Data Visualization using Power BI
+--------------------------------------------------
 
-Power BI dashboards were designed to convert analytical results into intuitive visual stories. These dashboards help stakeholders quickly understand trends, patterns, and performance gaps across regions.
+The analyzed data was visualized using Power BI dashboards to provide interactive and clear insights. Visuals highlight revenue trends, regional performance, and overall sales patterns for better decision-making.
 
-==================================================
+--------------------------------------------------
 
-### 🔹 Key Business Insights
-==================================================
+### 🔹 Key Insights
+--------------------------------------------------
 
-1. A significant decline in sales was observed in 2020 when compared to the previous year.  
-2. Metro regions consistently contributed the highest share of total revenue.  
-3. Sales volume was concentrated in a few key markets, indicating strong regional demand.  
-4. Seasonal trends revealed higher sales activity at the beginning of the year.
+1. Sales declined significantly in 2020 compared to 2019 by approximately 57.7%.  
+2. Highest revenue was generated from markets such as Delhi NCR, Mumbai, Ahmedabad, Bhopal, and Nagpur.  
+3. Maximum sales quantity was observed in Delhi NCR, Mumbai, Nagpur, Kochi, and Ahmedabad.  
+4. Peak sales occurred primarily in January, followed by November and March.  
 
-==================================================
+--------------------------------------------------
 
-### 🛠 Tools & Technologies
-==================================================
+### 📈 Sales Performance Dashboard
+--------------------------------------------------
+
+A Power BI dashboard was created to provide a quick overview of sales performance, revenue trends, and market-wise analysis for management-level decision-making.
+
+--------------------------------------------------
+
+### 🛠 Tools & Technologies Used
+--------------------------------------------------
 
 - SQL (MySQL / SQL Server)  
 - Power BI  
-- Structured sales datasets  
+- CSV / Excel datasets  
 
-==================================================
+--------------------------------------------------
 
-### 👩‍💻 Project Owner
-==================================================
+### 👩‍💻 Conact
+--------------------------------------------------
 
-Vidhi  
+Vidhi patel
+9328044920
