@@ -1,4 +1,4 @@
-## 📊 Sales Insights using SQL & Power BI
+## 📊 Sales Performance Analytics using SQL & Power BI
 --------------------------------------------------
 
 This project focuses on analyzing sales data using SQL for data cleaning and analysis, and Power BI for data visualization. The objective is to extract meaningful business insights related to revenue trends, market performance, and customer behavior.
@@ -83,3 +83,4 @@ A Power BI dashboard was created to provide a quick overview of sales performanc
 
 Vidhi patel
 9328044920
+
